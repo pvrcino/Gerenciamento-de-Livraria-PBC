@@ -1,0 +1,12 @@
+Venda 1:
+	As cronicas de Narnia
+	1
+	60.00
+Venda 2:
+	As cronicas de Narnia
+	10
+	600.00
+Venda 3:
+	As cronicas de Narnia
+	2
+	120.00

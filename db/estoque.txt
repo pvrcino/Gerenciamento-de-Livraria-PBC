@@ -1,0 +1,15 @@
+Livro 1:
+	Harry Potter and the Philosopher's Stone
+	9781408855652
+	55.10
+	10
+Livro 2:
+	O Senhor dos Anéis: A Sociedade do Anel
+	8595084750
+	67.90
+	22
+Livro 3:
+	As cronicas de Narnia
+	123456789
+	60.00
+	18
