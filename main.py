@@ -87,7 +87,7 @@ def venderLivro(isbn: int, qtd: int):
 
     value = qtd * Livro['Valor']
 
-    #Adiciona a tupla Venda ao HistoricoVendas
+    #Adiciona a tupla Venda ao HistoricoVendas.
     Venda = (Livro['Titulo'], qtd, value)
     HistoricoVendas.append(Venda)
     return value
